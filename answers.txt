@@ -7,3 +7,8 @@ b.  Scrum Master: Helps translate the Product Owner's requirements and converts 
 c.  Sprint Planning: Each member of the team shares their tasks for the week. The Scrum master keeps the meeting on time and helps identify potential blockers
     Standup: Each member of the team shares what they did uesterday and what their plan is for the day ahead. Team members also voice blockers so others can help.
     Sprint Review: Each member of the team reviews what tasks they completed. Incomplete work is either moved to the next sprint or into the backlog
+
+d.  Epic: Large bodies of work (sometimes requiring multiple people) that are composed of several stories
+    Story: Smaller increments of work that take the form of a single requirement or customer need
+    Bug: A piece of erroneous behavior to be fixed
+    Task: Individual components that are required to complete a story
