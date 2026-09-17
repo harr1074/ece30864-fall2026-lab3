@@ -1,0 +1,3 @@
+a.  Pros: Allows for the reconsideration of changing consumer values, Encourages colaboration and reduced bockages through the sharing of blockers for individuals 
+    Cons: Oversharing can slow down team progress, overly iterating can result in repeated work and churn
+
